@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @slalanne (Stanley Lalanne)
-- 👀 I’m interested in Software Engineering, Data Engineering, and Cyber Security
+- 👀 My interests are in Software Engineering, Cloud Development, Cyber Security, and Cloud Infrastructure
 <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
